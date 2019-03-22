@@ -6,5 +6,6 @@ namespace Vjezba1
 {
     class NewClass
     {
-    }
+        public void PraznaMetoda(){ }
+        }
 }
