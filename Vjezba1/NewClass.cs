@@ -10,7 +10,7 @@ namespace Vjezba1
         public void PraznaMetoda(){ }
         }
 =======
-    { //nova klasa
+    { //nova klasa2
     }
 >>>>>>> 71f39b88757554a6c34cb1b685ca3f1bc048bc83
 }
