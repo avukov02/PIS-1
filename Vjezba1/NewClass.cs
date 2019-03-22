@@ -5,6 +5,6 @@ using System.Text;
 namespace Vjezba1
 {
     class NewClass
-    {
+    { //nova klasa
     }
 }
